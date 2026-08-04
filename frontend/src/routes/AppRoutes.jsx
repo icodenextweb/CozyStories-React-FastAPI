@@ -7,7 +7,6 @@ export default function AppRoutes() {
   return (
     <Routes>
       <Route path="/" element={<Home />} />
-      {/* <Route path="/StoryView" element={<StoryView />} /> */}
     </Routes>
   );
 }
